@@ -2,6 +2,11 @@
 
 This game was made in under 3 hours for TriJam #191.  Can you escape the Labyrinth of Isolation?
 
+## Results
+
+- Out of 25 entries, we got 10th overall and 6th for Gameplay.
+- <https://itch.io/jam/trijam-191/results>
+
 ## Team:
 
 - Jon Worthington - Game Design / Art / Programming 
