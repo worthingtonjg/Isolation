@@ -17,4 +17,4 @@ This game was made in under 3 hours for TriJam #191.  Can you escape the Labyrin
 
 ## Play the game
 
-- (https://cypherjw.itch.io/labrynth-of-isolation)[https://cypherjw.itch.io/labrynth-of-isolation]
+- <https://cypherjw.itch.io/labrynth-of-isolation>
